@@ -16,7 +16,6 @@ Observability is a hot topic in the computing world: we’ve all dealt with syst
 * https://cloudplatform.googleblog.com/2017/08/how-to-analyze-Fastly-real-time-streaming-logs-with-BigQuery.html
 * https://peter.bourgon.org/talks
 * https://medium.com/@copyconstruct/monitoring-and-observability-8417d1952e1c
-* https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e
 * https://www.vividcortex.com/blog/monitoring-isnt-observability
 * https://en.wikipedia.org/wiki/Observability
 
@@ -34,3 +33,6 @@ Observability is a hot topic in the computing world: we’ve all dealt with syst
 * https://www.flickr.com/photos/pictureclara/4310844458
 * https://www.flickr.com/photos/58847482@N03/5592005736
 * https://www.flickr.com/photos/mibby23/23823090722/
+* https://thenounproject.com/search/?q=dive&i=1427230
+* https://thenounproject.com/search/?q=gaze&i=1472712
+* https://thenounproject.com/search/?q=delightful&i=351302
