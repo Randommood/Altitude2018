@@ -36,3 +36,4 @@ Observability is a hot topic in the computing world: we’ve all dealt with syst
 * https://thenounproject.com/search/?q=dive&i=1427230
 * https://thenounproject.com/search/?q=gaze&i=1472712
 * https://thenounproject.com/search/?q=delightful&i=351302
+* https://emojipedia.org
