@@ -18,6 +18,7 @@ Observability is a hot topic in the computing world: we’ve all dealt with syst
 * https://medium.com/@copyconstruct/monitoring-and-observability-8417d1952e1c
 * https://www.vividcortex.com/blog/monitoring-isnt-observability
 * https://en.wikipedia.org/wiki/Observability
+* [A great joke](https://mobile.twitter.com/PersianRose1/status/997799849532604417)
 
 ## Image credits
 * https://www.flickr.com/photos/junpei/82877720
