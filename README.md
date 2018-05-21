@@ -21,28 +21,19 @@ Observability is a hot topic in the computing world: we’ve all dealt with syst
 * [A great joke](https://mobile.twitter.com/PersianRose1/status/997799849532604417)
 
 ## Image credits
-* https://www.flickr.com/photos/junpei/82877720
-* https://www.flickr.com/photos/joaomc/39465214160
-* https://www.flickr.com/photos/46175642@N03/4471057149
 * https://www.flickr.com/photos/136826721@N08/39819468650
 * https://www.flickr.com/photos/spaceyjessie/7674024728
 * https://www.flickr.com/photos/spaceyjessie/7674023386
-* https://www.flickr.com/photos/dgjones/450844175
-* https://www.flickr.com/photos/26652069@N07/8305045636
 * https://www.flickr.com/photos/pkingdesign/4623776452
 * https://www.flickr.com/photos/pictureclara/4310844458
-* https://www.flickr.com/photos/58847482@N03/5592005736
 * https://www.flickr.com/photos/mibby23/23823090722/
-* https://www.flickr.com/photos/lowfatbrains/87022564
 * https://www.flickr.com/photos/markkaletka/30461469312
 * https://www.flickr.com/photos/optimieron/281049131
 * https://www.flickr.com/photos/tonnelloggs/4395508367
 * https://www.flickr.com/photos/chefranden/2669191478
 * https://www.flickr.com/photos/alicejt/2445505689
-* https://www.flickr.com/photos/joshhinds1911/4072966285
 * https://www.flickr.com/photos/cryosis/144256583
 * https://www.flickr.com/photos/martin_borgman/3864366797
-* https://www.flickr.com/photos/huxhombre/8064485905
 * https://www.flickr.com/photos/myharmonicagoldfish/450568428
 * https://www.flickr.com/photos/smerikal/5600994379/
 * https://thenounproject.com/search/?q=dive&i=1427230
